@@ -6,24 +6,17 @@ A React Native Expo app for task management with beautiful UI and smooth animati
 
 ## App Assets
 
-### App Icon
+
 <p align="center">
-  <img src="./assets/images/icon.png" alt="App Icon" width="128" height="128" />
+  <img src="https://raw.githubusercontent.com/6ixapp/Groweasy-task/main/frontend/my-app/images/WhatsApp%20Image%202025-11-29%20at%2018.06.34_d987e7d0.jpg" width="250" />
+  <img src="https://raw.githubusercontent.com/6ixapp/Groweasy-task/main/frontend/my-app/images/WhatsApp%20Image%202025-11-29%20at%2018.06.35_f180acef.jpg" width="250" />
+  <img src="https://raw.githubusercontent.com/6ixapp/Groweasy-task/main/frontend/my-app/images/WhatsApp%20Image%202025-11-29%20at%2018.06.35_fcfe5394.jpg" width="250" />
 </p>
 
-### Splash Screen Icon
 <p align="center">
-  <img src="./assets/images/splash-icon.png" alt="Splash Icon" width="200" />
-</p>
-
-### Android Adaptive Icons
-| Background | Foreground | Monochrome |
-|:----------:|:----------:|:----------:|
-| <img src="./assets/images/android-icon-background.png" alt="Android Background" width="100" /> | <img src="./assets/images/android-icon-foreground.png" alt="Android Foreground" width="100" /> | <img src="./assets/images/android-icon-monochrome.png" alt="Android Monochrome" width="100" /> |
-
-### Favicon
-<p align="center">
-  <img src="./assets/images/favicon.png" alt="Favicon" width="48" />
+  <img src="https://raw.githubusercontent.com/6ixapp/Groweasy-task/main/frontend/my-app/images/WhatsApp%20Image%202025-11-29%20at%2018.06.36_0f0cb617.jpg" width="250" />
+  <img src="https://raw.githubusercontent.com/6ixapp/Groweasy-task/main/frontend/my-app/images/WhatsApp%20Image%202025-11-29%20at%2018.06.37_494d1447.jpg" width="250" />
+  <img src="https://raw.githubusercontent.com/6ixapp/Groweasy-task/main/frontend/my-app/images/WhatsApp%20Image%202025-11-29%20at%2018.06.37_893b43e6.jpg" width="250" />
 </p>
 
 ---
